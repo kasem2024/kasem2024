@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [mohamed mossa kassem], [ FullStack developer] a passionate developer and computer science student currently in my fourth year. I specialize in building dynamic and responsive web applications using Next.js, React, Node.js , Prisma ,MongoDb,FramerMotion , nextAuth.js , Tailwind CSS , bootstrap , materialUi , shadcnUi . With a strong foundation in computer science and a creative mindset, I bring innovative solutions to life.
+I'm [mohamed mossa kassem], [ FullStack developer] a passionate developer and computer science . I specialize in building dynamic and responsive web applications using Next.js, React, Node.js , Prisma ,MongoDb,FramerMotion , nextAuth.js , Tailwind CSS , bootstrap , materialUi , shadcnUi . With a strong foundation in computer science and a creative mindset, I bring innovative solutions to life.
 
 ## 🚀 Technologies and Skills
 
