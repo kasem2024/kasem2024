@@ -23,7 +23,7 @@ I am currently pursuing my Bachelor's degree in Computer Science, and I am in th
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/mohamed-kasem-a8060128b)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-kasem-a8060128b/)
 - [GitHub](https://github.com/kasem2024)
 
 
