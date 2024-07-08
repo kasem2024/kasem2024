@@ -13,13 +13,12 @@ I'm [mohamed mossa kassem], [ FullStack developer] a passionate developer and co
  
 ## 💼 Experience
 
-- Currently working on [graduation prject] - a [it will produce a lots of Ai features and will connect the user together in a chat room ].
+- I built [graduation prject] - a [it will produce a lots of Ai features and will connect the user together in a chat room ].
 - Contributed to [mern-blog web application].
-- Completed [next.js course].
 
 ## 🌱 Academic Background
 
-I am currently pursuing my Bachelor's degree in Computer Science, and I am in the fourth grade of my academic journey. My studies include a diverse range of computer science topics, from algorithms and data structures to software engineering principles.
+I got a Bachelor's degree in Computer Science, and I am a Fresh graduated . My studies include a diverse range of computer science topics, from algorithms and data structures to software engineering principles.
 
 ## 🔗 Connect with Me
 
