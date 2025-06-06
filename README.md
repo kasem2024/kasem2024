@@ -63,15 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="c++ logo" style="margin-right: 5px;" /> C++, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo" style="margin-right: 5px;" /> Java  
 
-- **Software Skills**: 
- Data Structures and Algorithms, 
- OOP  
-
-- **Version Control**: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo" style="margin-right: 5px;" /> Git, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo" style="margin-right: 5px;" /> GitHub  
-
----
 
 
 <picture>
