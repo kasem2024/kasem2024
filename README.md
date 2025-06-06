@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Mohamed Mousa and I'm a Full Stack Developer</h2>
 
+
 ###
 
 <img align="right" height="150" src="https://i.postimg.cc/TwnZ8hQ9/Mousa.jpg"  />
@@ -61,22 +62,19 @@
 - **Software Skills**: Data Structures and Algorithms, OOP  
 - **Version Control**: Git, GitHub  
 
-###
-
-<h3>💼 Experience</h3>
-
-- **Real-Time Chat Website**: Built a platform with features like profile editing, group chats, messaging, image uploads, and an integrated chatbot for support services.
-  
-- **AI Services Website**: Developed a site that allows users to interact with AI models, craft personalized music, videos, and images, while also offering AI training services.
-  
-- **Weather Website**: Created a weather app with Google account integration and live weather details like temperature, wind speed, and humidity. Includes a 7-day weather forecast.
-  
-- **Movie Website**: Designed a feature-rich movie site enabling users to search for and view movie trailers, with custom features for video control, responsive design, and background customization.
-  
-- **Game Hub**: Developed a game discovery platform utilizing **React Query** for data fetching and caching, with infinite scrolling and advanced game filtering.
-
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+###
+<img align="right" height="150" src="https://i.postimg.cc/2jJfKHhk/7fd72080-496d-11eb-8fe0-238b38a0746a-1.png"  />
+
+
 
 
 <div align="left">
@@ -131,12 +129,4 @@ Feel free to reach out to me at:
 **[kasem2023mohareb@gmail.com]**
 
 Let's collaborate, innovate, and make the web a better place together! 🌐✨
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
