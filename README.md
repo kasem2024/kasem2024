@@ -2,7 +2,7 @@
 # Hello World!, I'm Mousa, a Full Stack Developer👋🏼:
 ###
 
-<img align="right" height="320" width="350" src="https://i.postimg.cc/mgwPGfbf/fullstack.gif"  />
+<img align="right" height="390" width="600" src="https://i.postimg.cc/mgwPGfbf/fullstack.gif"  />
 
 ###
 
@@ -63,18 +63,11 @@
 
 
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-###
-<img align="right" height="150" src="https://i.postimg.cc/2jJfKHhk/7fd72080-496d-11eb-8fe0-238b38a0746a-1.png"  />
-
-
-
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
