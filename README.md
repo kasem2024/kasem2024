@@ -1,59 +1,142 @@
-# Hi there! 👋
+<h2 align="left">Hi 👋! My name is Mohamed Mousa and I'm a Full Stack Developer</h2>
 
-I'm [Mohamed Mousa Kasem], [ FullStack Developer] a passionate developer and computer science . I specialize in building dynamic and responsive web applications using Next.js, React , Prisma,node.js ,MongoDb,FramerMotion , nextAuth.js , Tailwind CSS , bootstrap , materialUi , shadcnUi . With a strong foundation in computer science and a creative mindset, I bring innovative solutions to life.
+###
 
-## 🚀 Technologies and Skills
+<img align="right" height="150" src="https://i.postimg.cc/TwnZ8hQ9/Mousa.jpg"  />
 
-- Frontend Development: Vanilla JS ,React.js , React-Router , Auth.js , React-Query , Next.js , Remix
-- Backend Development :  Node.js , Php , Mysql , MongoDb , Prisma 
-- Styling: Tailwind CSS ,  FramerMotion , Bootstarp , MaterialUi , ShadcnUi
-- Languages: TypeScript , HTML , CSS , Php , C++ , Java 
-- Software Skills : Data Structure And Algorithms ,  oop 
-- Version Control: Git, GitHub 
- 
-## 💼 Experience
+###
 
-- Constructing a real-time chat website that offers a wide range of
-features to connect with friends, including profile editing, creating
-group chats, sending and receiving messages, sending and receiving
-images, uploading images, and providing a chatbot for support
-services.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+</div>
 
-- Formulating an Ai-services website for starting conversation with Ai
-Training model crafting your on music and videos and images
-Establishing a weather website with seamless Google account
-integration for logging in and logging out. The site will display
-weather information based on the city selected in the search input.
-Weather details will include "feels like" temperature, wind speed,
-pressure, and humidity.Lastly, providing the weather forecast for the
-next 7 days, starting from the current day.
+###
 
-- Building a feature-rich movie website that enables users to search for
-and watch their favorite movie trailers. The site will display detailed
-information for each selected movie, feature custom buttons for
-starting and ending videos, and change the background based on the
-selected movie. Additionally, it will have a responsive design to fit a
-wide range of devices.
+<h3>🚀 Technologies and Skills</h3>
 
-- Developing a Game Hub project utilizing ReactQuery for fetching data
-and caching and implementing infinite scrolling , showcasing genre
-browsing, game filtering by platform, and detailed game pages.
-Leveraging React.js, Next.js, Tailwind CSS, and Framer , and much
-more to come
-## 🌱 Academic Background
+- **Frontend Development**: JavaScript, React.js, React-Router, Auth.js, React-Query, Next.js, Remix  
+- **Backend Development**: Node.js, PHP, MySQL, MongoDB, Prisma  
+- **Styling**: Tailwind CSS, FramerMotion, Bootstrap, Material UI, Shadcn UI  
+- **Languages**: TypeScript, HTML, CSS, PHP, C++, Java  
+- **Software Skills**: Data Structures and Algorithms, OOP  
+- **Version Control**: Git, GitHub  
 
-I got a Bachelor's degree in Computer Science, and I am a Fresh graduated . My studies include a diverse range of computer science topics, from algorithms and data structures to software engineering principles.
+###
 
-## 🔗 Connect with Me
+<h3>💼 Experience</h3>
+
+- **Real-Time Chat Website**: Built a platform with features like profile editing, group chats, messaging, image uploads, and an integrated chatbot for support services.
+  
+- **AI Services Website**: Developed a site that allows users to interact with AI models, craft personalized music, videos, and images, while also offering AI training services.
+  
+- **Weather Website**: Created a weather app with Google account integration and live weather details like temperature, wind speed, and humidity. Includes a 7-day weather forecast.
+  
+- **Movie Website**: Designed a feature-rich movie site enabling users to search for and view movie trailers, with custom features for video control, responsive design, and background customization.
+  
+- **Game Hub**: Developed a game discovery platform utilizing **React Query** for data fetching and caching, with infinite scrolling and advanced game filtering.
+
+
+###
+
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="unsplash logo"  />
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matrix logo"  />
+  <img src="https://img.shields.io/static/v1?message=Tutanota&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutanota logo"  />
+  <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+</div>
+
+
+###
+
+<h3>🌱 Academic Background</h3>
+
+I have a **Bachelor's degree in Computer Science**, where I explored a variety of topics including algorithms, data structures, software engineering principles, and more.
+
+###
+
+<h3>🔗 Connect with Me</h3>
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-kasem-a8060128b)
 - [GitHub](https://github.com/kasem2024)
 
+###
 
-## 📫 Contact
+<h3>📫 Contact</h3>
 
-Feel free to reach out to me at [kasem2023mohareb@gmail.com].
+Feel free to reach out to me at:  
+**[kasem2023mohareb@gmail.com]**
 
 Let's collaborate, innovate, and make the web a better place together! 🌐✨
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
