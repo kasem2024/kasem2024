@@ -1,9 +1,8 @@
-<h2 align="left">Hi 👋! My name is Mohamed Mousa and I'm a Full Stack Developer</h2>
 
-
+# Hello World!, I'm Mousa, a Full Stack Developer👋🏼:
 ###
 
-<img align="right" height="350" width="350" src="https://i.postimg.cc/mgwPGfbf/fullstack.gif"  />
+<img align="right" height="320" width="350" src="https://i.postimg.cc/mgwPGfbf/fullstack.gif"  />
 
 ###
 
@@ -119,7 +118,6 @@ I have a **Bachelor's degree in Computer Science**, where I explored a variety o
 <h3>🔗 Connect with Me</h3>
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-kasem-a8060128b)
-- [GitHub](https://github.com/kasem2024)
 
 ###
 
