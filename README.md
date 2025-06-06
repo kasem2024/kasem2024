@@ -2,7 +2,7 @@
 # Hello World!, I'm Mousa, a Full Stack Developer👋🏼:
 ###
 
-<img align="right" height="390" width="600" src="https://i.postimg.cc/mgwPGfbf/fullstack.gif"  />
+<img align="right" height="390" width="500" src="https://i.postimg.cc/mgwPGfbf/fullstack.gif"  />
 
 ###
 
