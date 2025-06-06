@@ -89,7 +89,7 @@
 
 ---
 
-<h3 style="color: #FF5722;">🌱 Academic Background</h3>
+<h3 style="color: #FF5722;"> 📚 Academic Background</h3>
 
 I have a **Bachelor's degree in Computer Science**, where I explored a variety of topics including algorithms, data structures, software engineering principles, and more.
 
