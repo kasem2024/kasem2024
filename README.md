@@ -30,38 +30,6 @@
 
 
 
-### 💻  Technologies and Skills
-
-- **Frontend Development**: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo" style="margin-right: 5px;" /> JavaScript, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" style="margin-right: 5px;" /> React.js, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react-router logo" style="margin-right: 5px;" /> React-Router, 
-   Auth.js, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react-query logo" style="margin-right: 5px;" /> React-Query, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo" style="margin-right: 5px;" /> Next.js, 
-  Remix  
-
-- **Backend Development**: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="nodejs logo" style="margin-right: 5px;" /> Node.js, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" alt="php logo" style="margin-right: 5px;" /> PHP, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo" style="margin-right: 5px;" /> MySQL, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="mongodb logo" style="margin-right: 5px;" /> MongoDB, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="20" alt="prisma logo" style="margin-right: 5px;" /> Prisma  
-
-- **Styling**: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="20" alt="tailwindcss logo" style="margin-right: 5px;" /> Tailwind CSS, 
-  FramerMotion, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap logo" style="margin-right: 5px;" /> Bootstrap, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="20" alt="materialui logo" style="margin-right: 5px;" /> Material UI, 
-  Shadcn UI  
-
-- **Languages**: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo" style="margin-right: 5px;" /> TypeScript, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo" style="margin-right: 5px;" /> HTML, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo" style="margin-right: 5px;" /> CSS, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" alt="php logo" style="margin-right: 5px;" /> PHP, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="c++ logo" style="margin-right: 5px;" /> C++, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo" style="margin-right: 5px;" /> Java  
 
 
 
