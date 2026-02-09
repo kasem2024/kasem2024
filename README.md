@@ -1,4 +1,4 @@
-# Hello World!, I'm Mousa, a Full Stack Developer👋🏼
+# Hello World!, I'm Mohamed Mousa, a Full Stack Developer👋🏼
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="margin-right: 10px;" />
