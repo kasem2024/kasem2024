@@ -27,7 +27,7 @@
 ---
 
 <div>
-<img align="center" max-height="500" width="1000" src="https://i.postimg.cc/mgwPGfbf/fullstack.gif"  />
+<img align="center" max-height="500" width="700" src="https://i.postimg.cc/mgwPGfbf/fullstack.gif"  />
 </div>
 
 
